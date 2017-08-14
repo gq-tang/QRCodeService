@@ -1,0 +1,18 @@
+[QR.Code_V1_release]2016/08/17 22:37:57 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2016/08/17 22:40:18 [Debug] logger.go:51 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 22:40:18 [Info] logger.go:71 GET 304 1ms /
+[QR.Code_V1_release]2016/08/17 22:40:21 [Debug] logger.go:51 Started GET /GetQR?msg=http%3A%2F%2F192.168.1.250%3A8080%2F for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 22:40:21 [Info] logger.go:71 GET 200 46.0027ms /GetQR?msg=http%3A%2F%2F192.168.1.250%3A8080%2F
+[QR.Code_V1_release]2016/08/17 22:40:21 [Debug] logger.go:51 Started GET /QrCode/8d3418277e2b42ff99105158256b5a51 for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 22:40:24 [Info] logger.go:71 GET 200 3.3011888s /QrCode/8d3418277e2b42ff99105158256b5a51
+[QR.Code_V1_release]2016/08/17 22:40:44 [Debug] logger.go:51 Started GET /QrCode/8d3418277e2b42ff99105158256b5a51 for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 22:40:44 [Info] logger.go:71 GET 304 0s /QrCode/8d3418277e2b42ff99105158256b5a51
+[QR.Code_V1_release]2016/08/17 22:41:48 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2016/08/17 22:42:03 [Debug] logger.go:51 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 22:42:03 [Info] logger.go:71 GET 304 0s /
+[QR.Code_V1_release]2016/08/17 22:42:06 [Debug] logger.go:51 Started GET /GetQR?msg=http%3A%2F%2F192.168.1.250%3A8080%2F for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 22:42:06 [Info] logger.go:71 GET 200 21.0012ms /GetQR?msg=http%3A%2F%2F192.168.1.250%3A8080%2F
+[QR.Code_V1_release]2016/08/17 22:42:06 [Debug] logger.go:51 Started GET /QrCode/6f46af79958649dca614429cf5ab125e for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 22:42:06 [Info] logger.go:71 GET 200 159.0091ms /QrCode/6f46af79958649dca614429cf5ab125e
+[QR.Code_V1_release]2016/08/17 22:42:16 [Debug] logger.go:51 Started GET /QrCode/6f46af79958649dca614429cf5ab125e for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 22:42:16 [Info] logger.go:71 GET 304 0s /QrCode/6f46af79958649dca614429cf5ab125e

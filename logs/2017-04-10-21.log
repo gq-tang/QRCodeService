@@ -1,0 +1,7 @@
+[QR.Code_V1_release]2017/04/10 21:55:49 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2017/04/10 21:56:19 [Debug] logger.go:51 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2017/04/10 21:56:19 [Info] logger.go:71 GET 200 619.0354ms /
+[QR.Code_V1_release]2017/04/10 21:56:21 [Debug] logger.go:51 Started GET /favicon.ico for 127.0.0.1
+[QR.Code_V1_release]2017/04/10 21:56:21 [Info] logger.go:71 GET 200 1ms /favicon.ico
+[QR.Code_V1_release]2017/04/10 21:59:05 [Debug] logger.go:51 Started GET /announce?info_hash=%94j%28%8B%DF%0C8%8A%09it%B2%C7%04%3C%9E%05%97%85%16&peer_id=%2DSD0100%2Dl%5F%0F%A7%02%11%D2%03M%B0%BC%99&ip=192.168.1.250&port=11384&uploaded=1807745024&downloaded=1807745024&left=3104833536&numwant=200&key=15170&compact=1 for 127.0.0.1
+[QR.Code_V1_release]2017/04/10 21:59:05 [Info] logger.go:71 GET 200 1.0001ms /announce?info_hash=%94j%28%8B%DF%0C8%8A%09it%B2%C7%04%3C%9E%05%97%85%16&peer_id=%2DSD0100%2Dl%5F%0F%A7%02%11%D2%03M%B0%BC%99&ip=192.168.1.250&port=11384&uploaded=1807745024&downloaded=1807745024&left=3104833536&numwant=200&key=15170&compact=1

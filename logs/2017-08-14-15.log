@@ -1,0 +1,51 @@
+[QRCode_0.1.1.0814]2017/08/14 15:32:25 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:32:25 [Info] logger.go:70 GET 200 2.0001ms /
+[QRCode_0.1.1.0814]2017/08/14 15:33:05 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:33:05 [Info] logger.go:70 GET 200 2.0001ms /
+[QRCode_0.1.1.0814]2017/08/14 15:33:15 [Debug] logger.go:50 Started GET /GetQR?msg=%E7%89%B9%E4%B8%8A%E4%BB%96 for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:33:16 [Info] logger.go:70 GET 200 1.0470599s /GetQR?msg=%E7%89%B9%E4%B8%8A%E4%BB%96
+[QRCode_0.1.1.0814]2017/08/14 15:33:16 [Debug] logger.go:50 Started GET /QrCode/bbec2ee3acbd1d0e75ac7857e95d6052 for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:33:16 [Info] logger.go:70 GET 200 1.0001ms /QrCode/bbec2ee3acbd1d0e75ac7857e95d6052
+[QRCode_0.1.1.0814]2017/08/14 15:35:39 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:35:39 [Info] logger.go:70 GET 200 1.0001ms /
+[QRCode_0.1.1.0814]2017/08/14 15:44:10 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:44:10 [Info] logger.go:70 GET 200 2.0001ms /
+[QRCode_0.1.1.0814]2017/08/14 15:44:57 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:44:58 [Info] logger.go:70 GET 200 1.0330591s /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:44:58 [Debug] logger.go:50 Started GET /QrCode/8c6d115258631625b625486f81b09532 for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:44:58 [Info] logger.go:70 GET 200 1ms /QrCode/8c6d115258631625b625486f81b09532
+[QRCode_0.1.1.0814]2017/08/14 15:45:49 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:45:49 [Info] logger.go:70 GET 200 40.0023ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:45:51 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:45:51 [Info] logger.go:70 GET 200 45.0025ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:45:52 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:45:52 [Info] logger.go:70 GET 200 29.0016ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:49:15 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:49:15 [Info] logger.go:70 GET 200 29.0017ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:49:16 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:49:16 [Info] logger.go:70 GET 200 35.002ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:49:18 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:49:18 [Info] logger.go:70 GET 200 58.0033ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:49:18 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:49:18 [Info] logger.go:70 GET 200 31.0017ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:49:19 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:49:19 [Info] logger.go:70 GET 200 38.0022ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:49:20 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:49:21 [Info] logger.go:70 GET 200 77.0044ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:50:52 [Debug] logger.go:50 Started GET /static/js/ for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:50:52 [Info] logger.go:70 GET 200 0s /static/js/
+[QRCode_0.1.1.0814]2017/08/14 15:50:57 [Debug] logger.go:50 Started GET /static/css/ for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:50:57 [Info] logger.go:70 GET 200 0s /static/css/
+[QRCode_0.1.1.0814]2017/08/14 15:51:01 [Debug] logger.go:50 Started GET /static/ for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:51:01 [Error] logger.go:72 GET 404 1ms /static/ Not Found
+[QRCode_0.1.1.0814]2017/08/14 15:51:07 [Debug] logger.go:50 Started GET /static/ for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:51:07 [Error] logger.go:72 GET 404 0s /static/ Not Found
+[QRCode_0.1.1.0814]2017/08/14 15:53:12 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QRCode_0.1.1.0814]2017/08/14 15:53:48 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QRCode_0.1.1.0814]2017/08/14 15:53:52 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:53:52 [Info] logger.go:70 GET 304 0s /
+[QRCode_0.1.1.0814]2017/08/14 15:58:20 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QRCode_0.1.1.0814]2017/08/14 15:58:23 [Debug] logger.go:50 Started GET /GetQR?msg=this+is+test for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:58:23 [Info] logger.go:70 GET 200 24.0014ms /GetQR?msg=this+is+test
+[QRCode_0.1.1.0814]2017/08/14 15:58:23 [Debug] logger.go:50 Started GET /QrCode/8c6d115258631625b625486f81b09532 for 127.0.0.1
+[QRCode_0.1.1.0814]2017/08/14 15:58:23 [Info] logger.go:70 GET 200 130.0075ms /QrCode/8c6d115258631625b625486f81b09532

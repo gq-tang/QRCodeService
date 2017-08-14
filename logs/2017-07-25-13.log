@@ -1,0 +1,15 @@
+[QR.Code_V1_release]2017/07/25 13:13:04 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2017/07/25 13:13:26 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2017/07/25 13:13:26 [Info] logger.go:70 GET 304 1.0001ms /
+[QR.Code_V1_release]2017/07/25 13:13:26 [Debug] logger.go:50 Started GET /static/jss/jquery.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/07/25 13:13:26 [Debug] logger.go:50 Started GET /static/jss/bootstrap.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/07/25 13:13:26 [Info] logger.go:70 GET 304 1ms /static/jss/jquery.min.js
+[QR.Code_V1_release]2017/07/25 13:13:26 [Debug] logger.go:50 Started GET /static/css/bootstrap.min.css/ for 127.0.0.1
+[QR.Code_V1_release]2017/07/25 13:13:26 [Info] logger.go:70 GET 304 15.0009ms /static/jss/bootstrap.min.js
+[QR.Code_V1_release]2017/07/25 13:13:26 [Info] logger.go:70 GET 304 12.0006ms /static/css/bootstrap.min.css/
+[QR.Code_V1_release]2017/07/25 13:13:26 [Debug] logger.go:50 Started GET /favicon.ico for 127.0.0.1
+[QR.Code_V1_release]2017/07/25 13:13:26 [Error] logger.go:72 GET 404 1ms /favicon.ico Not Found
+[QR.Code_V1_release]2017/07/25 13:13:39 [Debug] logger.go:50 Started GET /GetQR?msg=hello+world for 127.0.0.1
+[QR.Code_V1_release]2017/07/25 13:13:39 [Info] logger.go:70 GET 200 34.0019ms /GetQR?msg=hello+world
+[QR.Code_V1_release]2017/07/25 13:13:39 [Debug] logger.go:50 Started GET /QrCode/d43e46689dbb407b9defd1e83f8744e9 for 127.0.0.1
+[QR.Code_V1_release]2017/07/25 13:13:39 [Info] logger.go:70 GET 200 159.0091ms /QrCode/d43e46689dbb407b9defd1e83f8744e9

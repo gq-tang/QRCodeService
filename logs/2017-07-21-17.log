@@ -1,0 +1,20 @@
+[QR.Code_V1_release]2017/07/21 17:38:23 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2017/07/21 17:38:25 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:38:25 [Info] logger.go:70 GET 200 146.0083ms /
+[QR.Code_V1_release]2017/07/21 17:38:25 [Debug] logger.go:50 Started GET /static/css/bootstrap.css for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:38:25 [Debug] logger.go:50 Started GET /static/js/jquery.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:38:25 [Info] logger.go:70 GET 200 1.0001ms /static/css/bootstrap.css
+[QR.Code_V1_release]2017/07/21 17:38:25 [Debug] logger.go:50 Started GET /static/js/bootstrap.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:38:25 [Info] logger.go:70 GET 200 5.0003ms /static/js/jquery.min.js
+[QR.Code_V1_release]2017/07/21 17:38:25 [Info] logger.go:70 GET 200 6.0003ms /static/js/bootstrap.min.js
+[QR.Code_V1_release]2017/07/21 17:38:25 [Debug] logger.go:50 Started GET /favicon.ico for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:38:25 [Info] logger.go:70 GET 200 1.0001ms /favicon.ico
+[QR.Code_V1_release]2017/07/21 17:39:55 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2017/07/21 17:39:59 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:39:59 [Info] logger.go:70 GET 200 127.0072ms /
+[QR.Code_V1_release]2017/07/21 17:39:59 [Debug] logger.go:50 Started GET /favicon.ico for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:39:59 [Info] logger.go:70 GET 200 1.0001ms /favicon.ico
+[QR.Code_V1_release]2017/07/21 17:40:00 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:40:00 [Info] logger.go:70 GET 304 1.0001ms /
+[QR.Code_V1_release]2017/07/21 17:40:00 [Debug] logger.go:50 Started GET /favicon.ico for 127.0.0.1
+[QR.Code_V1_release]2017/07/21 17:40:00 [Info] logger.go:70 GET 200 1.0001ms /favicon.ico

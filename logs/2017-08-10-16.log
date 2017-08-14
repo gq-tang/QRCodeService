@@ -1,0 +1,37 @@
+[QR.Code_V1_release]2017/08/10 16:27:42 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2017/08/10 16:27:55 [Debug] logger.go:50 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:27:55 [Info] logger.go:70 GET 200 513.0293ms /
+[QR.Code_V1_release]2017/08/10 16:27:55 [Debug] logger.go:50 Started GET /static/css/bootstrap.min.css for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:27:55 [Debug] logger.go:50 Started GET /static/jss/jquery.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:27:55 [Debug] logger.go:50 Started GET /static/jss/bootstrap.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:27:55 [Info] logger.go:70 GET 200 45.0026ms /static/css/bootstrap.min.css
+[QR.Code_V1_release]2017/08/10 16:27:55 [Info] logger.go:70 GET 200 54.003ms /static/jss/jquery.min.js
+[QR.Code_V1_release]2017/08/10 16:27:55 [Info] logger.go:70 GET 200 25.0015ms /static/jss/bootstrap.min.js
+[QR.Code_V1_release]2017/08/10 16:27:55 [Debug] logger.go:50 Started GET /favicon.ico for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:27:55 [Error] logger.go:72 GET 404 1.0001ms /favicon.ico Not Found
+[QR.Code_V1_release]2017/08/10 16:28:43 [Debug] logger.go:50 Started GET /static/js/jquery.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:28:43 [Info] logger.go:70 GET 200 6.0003ms /static/js/jquery.min.js
+[QR.Code_V1_release]2017/08/10 16:28:54 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2017/08/10 16:28:58 [Debug] logger.go:50 Started GET /static/js/jquery.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:28:58 [Info] logger.go:70 GET 304 1ms /static/js/jquery.min.js
+[QR.Code_V1_release]2017/08/10 16:28:59 [Debug] logger.go:50 Started GET /static/js/jquery.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:28:59 [Info] logger.go:70 GET 304 1.0001ms /static/js/jquery.min.js
+[QR.Code_V1_release]2017/08/10 16:29:33 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2017/08/10 16:29:36 [Debug] logger.go:50 Started GET /static/js/jquery.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:29:36 [Info] logger.go:70 GET 304 7.0004ms /static/js/jquery.min.js
+[QR.Code_V1_release]2017/08/10 16:31:01 [Debug] logger.go:50 Started GET /static/js/jquery.min.js for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:31:01 [Info] logger.go:70 GET 304 1.0001ms /static/js/jquery.min.js
+[QR.Code_V1_release]2017/08/10 16:31:26 [Debug] logger.go:50 Started GET /static/js for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:31:26 [Info] logger.go:70 GET 301 0s /static/js
+[QR.Code_V1_release]2017/08/10 16:31:26 [Debug] logger.go:50 Started GET /static/js/ for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:31:26 [Info] logger.go:70 GET 200 1.0001ms /static/js/
+[QR.Code_V1_release]2017/08/10 16:31:32 [Debug] logger.go:50 Started GET /static/css/ for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:31:32 [Info] logger.go:70 GET 200 1.0001ms /static/css/
+[QR.Code_V1_release]2017/08/10 16:31:58 [Debug] logger.go:50 Started GET /GetQR?msg=test for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:31:58 [Info] logger.go:70 GET 200 26.0015ms /GetQR?msg=test
+[QR.Code_V1_release]2017/08/10 16:31:58 [Debug] logger.go:50 Started GET /QrCode/9885753ede114d67be898e3a076f59ce for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:31:58 [Info] logger.go:70 GET 200 160.0092ms /QrCode/9885753ede114d67be898e3a076f59ce
+[QR.Code_V1_release]2017/08/10 16:41:18 [Debug] logger.go:50 Started GET /GetQR?msg=test for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:41:18 [Info] logger.go:70 GET 200 20.0012ms /GetQR?msg=test
+[QR.Code_V1_release]2017/08/10 16:41:18 [Debug] logger.go:50 Started GET /QrCode/ae752e1d525d44b1b09063d2c9ec8801 for 127.0.0.1
+[QR.Code_V1_release]2017/08/10 16:41:18 [Info] logger.go:70 GET 200 1ms /QrCode/ae752e1d525d44b1b09063d2c9ec8801

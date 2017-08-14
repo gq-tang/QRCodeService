@@ -1,0 +1,79 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "f4ZTnSPPS53NRx2Rrw6+oLMO8G4=",
+			"path": "github.com/Unknwon/goconfig",
+			"revision": "5f601ca6ef4d5cea8d52be2f8b3a420ee4b574a5",
+			"revisionTime": "2016-02-16T18:39:35Z"
+		},
+		{
+			"checksumSHA1": "CXrwm3uFtV/ID0sGQbeot7oWqcQ=",
+			"path": "github.com/go-redis/redis",
+			"revision": "7a034e1609674d5eb847c3885e5058c54e79a1df",
+			"revisionTime": "2017-08-04T11:55:58Z"
+		},
+		{
+			"checksumSHA1": "Gq0fMUAsVeyfug1tnJINIh3dQK0=",
+			"path": "github.com/go-redis/redis/internal",
+			"revision": "7a034e1609674d5eb847c3885e5058c54e79a1df",
+			"revisionTime": "2017-08-04T11:55:58Z"
+		},
+		{
+			"checksumSHA1": "BuzQsdMJMUXm8Zfwtuoz4QUdnZE=",
+			"path": "github.com/go-redis/redis/internal/consistenthash",
+			"revision": "7a034e1609674d5eb847c3885e5058c54e79a1df",
+			"revisionTime": "2017-08-04T11:55:58Z"
+		},
+		{
+			"checksumSHA1": "pgFOanECYY7qj95cq3730Z3ZDoo=",
+			"path": "github.com/go-redis/redis/internal/hashtag",
+			"revision": "7a034e1609674d5eb847c3885e5058c54e79a1df",
+			"revisionTime": "2017-08-04T11:55:58Z"
+		},
+		{
+			"checksumSHA1": "/k4KaDOOzIsyXHRzRMAODXevy+s=",
+			"path": "github.com/go-redis/redis/internal/pool",
+			"revision": "7a034e1609674d5eb847c3885e5058c54e79a1df",
+			"revisionTime": "2017-08-04T11:55:58Z"
+		},
+		{
+			"checksumSHA1": "thtDxI+oVexkT6BVHLZEUKHcrpY=",
+			"path": "github.com/go-redis/redis/internal/proto",
+			"revision": "7a034e1609674d5eb847c3885e5058c54e79a1df",
+			"revisionTime": "2017-08-04T11:55:58Z"
+		},
+		{
+			"checksumSHA1": "rQTE765wh7N0b0kRdp603j9pdHk=",
+			"path": "github.com/lunny/log",
+			"revision": "db601cfd560df77dc022766a622be6cdc28da3bf",
+			"revisionTime": "2015-11-24T14:35:22Z"
+		},
+		{
+			"checksumSHA1": "eUZ98/TRZnQaAweKDZGi63acSns=",
+			"path": "github.com/lunny/tango",
+			"revision": "3a04da4267e116a67b9f7ad1ea7768ee5a89dccb",
+			"revisionTime": "2016-06-14T09:07:51Z"
+		},
+		{
+			"checksumSHA1": "oBVzvZ2MiUE4387jkdR3jGEcF84=",
+			"path": "github.com/skip2/go-qrcode",
+			"revision": "5bfceac8c4950ff8f735525ddcde5a6b08d77ab6",
+			"revisionTime": "2016-01-24T02:09:45Z"
+		},
+		{
+			"checksumSHA1": "qL15ukdhUafj3A8C/uGiFFkRSX0=",
+			"path": "github.com/skip2/go-qrcode/bitset",
+			"revision": "5bfceac8c4950ff8f735525ddcde5a6b08d77ab6",
+			"revisionTime": "2016-01-24T02:09:45Z"
+		},
+		{
+			"checksumSHA1": "XXgEc+wD56i7AKhxPob96njB5KU=",
+			"path": "github.com/skip2/go-qrcode/reedsolomon",
+			"revision": "5bfceac8c4950ff8f735525ddcde5a6b08d77ab6",
+			"revisionTime": "2016-01-24T02:09:45Z"
+		}
+	],
+	"rootPath": "QRCodeService"
+}

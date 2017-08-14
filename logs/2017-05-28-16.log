@@ -1,0 +1,14 @@
+[QR.Code_V1_release]2017/05/28 16:06:57 [Debug] logger.go:51 Started GET /GetQR?msg=test for 127.0.0.1
+[QR.Code_V1_release]2017/05/28 16:06:58 [Info] logger.go:71 GET 200 316.0181ms /GetQR?msg=test
+[QR.Code_V1_release]2017/05/28 16:06:58 [Debug] logger.go:51 Started GET /QrCode/4b2d2e670e244d9ab41ff0291b4b9354 for 127.0.0.1
+[QR.Code_V1_release]2017/05/28 16:06:58 [Info] logger.go:71 GET 200 39.0023ms /QrCode/4b2d2e670e244d9ab41ff0291b4b9354
+[QR.Code_V1_release]2017/05/28 16:07:08 [Debug] logger.go:51 Started GET /GetQR?msg=test for 127.0.0.1
+[QR.Code_V1_release]2017/05/28 16:07:08 [Info] logger.go:71 GET 200 107.0061ms /GetQR?msg=test
+[QR.Code_V1_release]2017/05/28 16:07:08 [Debug] logger.go:51 Started GET /QrCode/468cec0c338442d1b1b2e376ee9c639f for 127.0.0.1
+[QR.Code_V1_release]2017/05/28 16:07:08 [Info] logger.go:71 GET 200 1ms /QrCode/468cec0c338442d1b1b2e376ee9c639f
+[QR.Code_V1_release]2017/05/28 16:13:46 [Debug] logger.go:51 Started GET /GetQR?msg=test for 127.0.0.1
+[QR.Code_V1_release]2017/05/28 16:13:46 [Info] logger.go:71 GET 200 73.0042ms /GetQR?msg=test
+[QR.Code_V1_release]2017/05/28 16:13:46 [Debug] logger.go:51 Started GET /QrCode/d7505f5e312b4be4bf75ba22f96bd9c8 for 127.0.0.1
+[QR.Code_V1_release]2017/05/28 16:13:46 [Info] logger.go:71 GET 200 1.0001ms /QrCode/d7505f5e312b4be4bf75ba22f96bd9c8
+[QR.Code_V1_release]2017/05/28 16:16:09 [Debug] logger.go:51 Started GET /QrCode/d7505f5e312b4be4bf75ba22f96bd9c8 for 127.0.0.1
+[QR.Code_V1_release]2017/05/28 16:16:09 [Info] logger.go:71 GET 304 6.0003ms /QrCode/d7505f5e312b4be4bf75ba22f96bd9c8

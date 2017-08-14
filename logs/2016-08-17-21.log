@@ -1,0 +1,46 @@
+[QR.Code_V1_release]2016/08/17 21:31:31 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2016/08/17 21:31:52 [Debug] logger.go:51 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:31:55 [Info] logger.go:71 GET 200 2.6511516s /
+[QR.Code_V1_release]2016/08/17 21:31:55 [Debug] logger.go:51 Started GET /favicon.ico for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:31:55 [Info] logger.go:71 GET 200 1ms /favicon.ico
+[QR.Code_V1_release]2016/08/17 21:31:55 [Debug] logger.go:51 Started GET /favicon.ico for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:31:55 [Info] logger.go:71 GET 206 1.0001ms /favicon.ico
+[QR.Code_V1_release]2016/08/17 21:36:12 [Debug] logger.go:51 Started GET /GetQR?msg=tates for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:36:13 [Info] logger.go:71 GET 200 73.0042ms /GetQR?msg=tates
+[QR.Code_V1_release]2016/08/17 21:36:13 [Debug] logger.go:51 Started GET /QrCode/651781576a3e4a88be2af210ad51d92c for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:36:13 [Error] logger.go:73 GET 404 0s /QrCode/651781576a3e4a88be2af210ad51d92c <nil>
+[QR.Code_V1_release]2016/08/17 21:36:37 [Debug] logger.go:51 Started GET /QrCode/651781576a3e4a88be2af210ad51d92c for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:36:37 [Error] logger.go:73 GET 404 1.0001ms /QrCode/651781576a3e4a88be2af210ad51d92c <nil>
+[QR.Code_V1_release]2016/08/17 21:36:47 [Debug] logger.go:51 Started GET /GetQR?msg=test for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:36:47 [Info] logger.go:71 GET 200 26.0014ms /GetQR?msg=test
+[QR.Code_V1_release]2016/08/17 21:36:47 [Debug] logger.go:51 Started GET /QrCode/a29f4f44123f4502b1615e6edda1eb2e for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:36:47 [Error] logger.go:73 GET 404 0s /QrCode/a29f4f44123f4502b1615e6edda1eb2e <nil>
+[QR.Code_V1_release]2016/08/17 21:37:22 [Debug] logger.go:51 Started GET /GetQR?msg=test for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:37:22 [Info] logger.go:71 GET 200 24.0014ms /GetQR?msg=test
+[QR.Code_V1_release]2016/08/17 21:37:23 [Debug] logger.go:51 Started GET /QrCode/1ce8a4ce72f44bc8bb5ba48537e0a830 for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:37:23 [Error] logger.go:73 GET 404 1ms /QrCode/1ce8a4ce72f44bc8bb5ba48537e0a830 <nil>
+[QR.Code_V1_release]2016/08/17 21:46:12 [Info] tan.go:132 Listening on http://0.0.0.0:8080
+[QR.Code_V1_release]2016/08/17 21:46:21 [Debug] logger.go:51 Started GET / for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:46:21 [Info] logger.go:71 GET 304 0s /
+[QR.Code_V1_release]2016/08/17 21:46:23 [Debug] logger.go:51 Started GET /GetQR?msg=test for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:46:23 [Info] logger.go:71 GET 200 56.0032ms /GetQR?msg=test
+[QR.Code_V1_release]2016/08/17 21:46:23 [Debug] logger.go:51 Started GET /QrCode/ae17f508f80041e1bf086b79b201ebbd for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:46:23 [Info] logger.go:71 GET 200 227.013ms /QrCode/ae17f508f80041e1bf086b79b201ebbd
+[QR.Code_V1_release]2016/08/17 21:46:44 [Debug] logger.go:51 Started GET /GetQR?msg=http%3A%2F%2Flocalhost%3A8080%2F for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:46:44 [Info] logger.go:71 GET 200 25.0014ms /GetQR?msg=http%3A%2F%2Flocalhost%3A8080%2F
+[QR.Code_V1_release]2016/08/17 21:46:44 [Debug] logger.go:51 Started GET /QrCode/90f5f078ce4740a197877284983a660b for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:46:44 [Info] logger.go:71 GET 200 17.0009ms /QrCode/90f5f078ce4740a197877284983a660b
+[QR.Code_V1_release]2016/08/17 21:52:41 [Debug] logger.go:51 Started GET / for 192.168.1.250
+[QR.Code_V1_release]2016/08/17 21:52:41 [Info] logger.go:71 GET 200 20.0012ms /
+[QR.Code_V1_release]2016/08/17 21:52:42 [Debug] logger.go:51 Started GET /favicon.ico for 192.168.1.250
+[QR.Code_V1_release]2016/08/17 21:52:42 [Info] logger.go:71 GET 200 1.0001ms /favicon.ico
+[QR.Code_V1_release]2016/08/17 21:52:42 [Debug] logger.go:51 Started GET /favicon.ico for 192.168.1.250
+[QR.Code_V1_release]2016/08/17 21:52:42 [Info] logger.go:71 GET 206 1ms /favicon.ico
+[QR.Code_V1_release]2016/08/17 21:52:46 [Debug] logger.go:51 Started GET /GetQR?msg=http%3A%2F%2F192.168.1.250%3A8080%2F for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:52:46 [Info] logger.go:71 GET 200 26.0015ms /GetQR?msg=http%3A%2F%2F192.168.1.250%3A8080%2F
+[QR.Code_V1_release]2016/08/17 21:52:46 [Debug] logger.go:51 Started GET /QrCode/d277814c141140848094e7f71e4e01eb for 127.0.0.1
+[QR.Code_V1_release]2016/08/17 21:52:46 [Info] logger.go:71 GET 200 2.0001ms /QrCode/d277814c141140848094e7f71e4e01eb
+[QR.Code_V1_release]2016/08/17 21:53:12 [Debug] logger.go:51 Started GET / for 192.168.1.250
+[QR.Code_V1_release]2016/08/17 21:53:12 [Info] logger.go:71 GET 200 1ms /
+[QR.Code_V1_release]2016/08/17 21:53:12 [Debug] logger.go:51 Started GET /favicon.ico for 192.168.1.250
+[QR.Code_V1_release]2016/08/17 21:53:12 [Info] logger.go:71 GET 200 1ms /favicon.ico
