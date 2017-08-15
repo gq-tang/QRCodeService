@@ -1,8 +1,0 @@
-[QR.Code_V1_release]2017/07/21 15:00:51 [Debug] logger.go:50 Started GET /*/public for 127.0.0.1
-[QR.Code_V1_release]2017/07/21 15:00:51 [Info] logger.go:70 GET 200 2.0001ms /*/public
-[QR.Code_V1_release]2017/07/21 15:07:14 [Debug] logger.go:50 Started GET /QrCode/ for 127.0.0.1
-[QR.Code_V1_release]2017/07/21 15:07:14 [Error] logger.go:72 GET 404 3.0002ms /QrCode/ Not Found
-[QR.Code_V1_release]2017/07/21 15:08:44 [Debug] logger.go:50 Started GET /QrCode/2e081ff45d4442ec98fc44c707a45dbe for 127.0.0.1
-[QR.Code_V1_release]2017/07/21 15:08:44 [Info] logger.go:70 GET 200 63.0036ms /QrCode/2e081ff45d4442ec98fc44c707a45dbe
-[QR.Code_V1_release]2017/07/21 15:08:54 [Debug] logger.go:50 Started GET /QrCode for 127.0.0.1
-[QR.Code_V1_release]2017/07/21 15:08:54 [Error] logger.go:72 GET 404 4.0003ms /QrCode Not Found

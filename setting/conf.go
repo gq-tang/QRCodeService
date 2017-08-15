@@ -14,9 +14,6 @@ const (
 )
 
 var (
-	Cfg *goconfig.ConfigFile
-)
-var (
 	AppVer           string
 	AppLogLevel      int
 	AppPort          string
@@ -33,9 +30,8 @@ var (
 	RedisPoolSize int
 )
 
-func loadConfig() {
-	var err error
-	Cfg, err = goconfig.LoadConfigFile(AppConfPath)
+func loadConfig() { 
+	Cfg, err := goconfig.LoadConfigFile(AppConfPath)
 	if err != nil {
 		panic(fmt.Sprint("Fail to load configuration file: " + err.Error()))
 	}

@@ -1,2 +1,0 @@
-[QR.Code_V1_release]2016/09/29 23:00:13 [Debug] logger.go:51 Started GET /QrCode/049e65d5c53e45d281e395a4fb75e638 for 127.0.0.1
-[QR.Code_V1_release]2016/09/29 23:00:13 [Info] logger.go:71 GET 304 5.0003ms /QrCode/049e65d5c53e45d281e395a4fb75e638

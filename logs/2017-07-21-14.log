@@ -1,7 +1,0 @@
-[QR.Code_V1_release]2017/07/21 14:49:30 [Info] tan.go:132 Listening on http://0.0.0.0:8080
-[QR.Code_V1_release]2017/07/21 14:49:50 [Debug] logger.go:50 Started GET / for 127.0.0.1
-[QR.Code_V1_release]2017/07/21 14:49:50 [Info] logger.go:70 GET 200 151.0087ms /
-[QR.Code_V1_release]2017/07/21 14:49:50 [Debug] logger.go:50 Started GET /favicon.ico for 127.0.0.1
-[QR.Code_V1_release]2017/07/21 14:49:50 [Info] logger.go:70 GET 200 1ms /favicon.ico
-[QR.Code_V1_release]2017/07/21 14:59:30 [Debug] logger.go:50 Started GET /* for 127.0.0.1
-[QR.Code_V1_release]2017/07/21 14:59:30 [Info] logger.go:70 GET 200 2.0001ms /*

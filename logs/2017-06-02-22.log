@@ -1,5 +1,0 @@
-[QR.Code_V1_release]2017/06/02 22:34:34 [Info] tan.go:132 Listening on http://0.0.0.0:8080
-[QR.Code_V1_release]2017/06/02 22:35:20 [Debug] logger.go:50 Started GET /GetQR?msg=test for 127.0.0.1
-[QR.Code_V1_release]2017/06/02 22:35:20 [Info] logger.go:70 GET 200 247.0141ms /GetQR?msg=test
-[QR.Code_V1_release]2017/06/02 22:35:20 [Debug] logger.go:50 Started GET /QrCode/2e081ff45d4442ec98fc44c707a45dbe for 127.0.0.1
-[QR.Code_V1_release]2017/06/02 22:35:24 [Info] logger.go:70 GET 200 3.1931826s /QrCode/2e081ff45d4442ec98fc44c707a45dbe

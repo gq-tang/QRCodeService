@@ -16,6 +16,7 @@ var RedisClient *model.RedisClient
 
 func init() {
 	RedisClient = model.NewClient()
+	go DestroyQRcode()
 }
 
 type GennerateQR struct {
