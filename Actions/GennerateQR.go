@@ -38,11 +38,11 @@ func (h *GennerateQR) Get() interface{} {
 	}
 	name := getName(m)
 	var expTime string
-	if !RedisClient.IsMember("Qrcode", name) {
-		expTime = time.Now().Add(time.Hour * 2).Format(time.RFC3339)
-		RedisClient.SaveQrcode("Qrcode", name, expTime)
+	if !RedisClient.IsMember(name) {
+		expTime = time.Now().Add(time.Duration(setting.Expire)).Format(time.RFC3339)
+		RedisClient.SaveQrcode(name, expTime)
 	} else {
-		expTime = RedisClient.GetExpire("Qrcode", name)
+		expTime = RedisClient.GetExpire(name)
 	}
 	err := qrcode.WriteFile(m, qrcode.Medium, 256, "public/"+name)
 	if err != nil {

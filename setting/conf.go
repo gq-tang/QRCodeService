@@ -23,6 +23,7 @@ var (
 	QRCodeSaveDir    string
 	AppLogFileFormat string
 	StaticDir        string
+	Expire           int64
 
 	RedisAddr     string
 	RedisPwd      string
@@ -30,7 +31,7 @@ var (
 	RedisPoolSize int
 )
 
-func loadConfig() { 
+func loadConfig() {
 	Cfg, err := goconfig.LoadConfigFile(AppConfPath)
 	if err != nil {
 		panic(fmt.Sprint("Fail to load configuration file: " + err.Error()))
@@ -44,6 +45,7 @@ func loadConfig() {
 	IndexFileUri = Cfg.MustValue(DEFAULT_SECTION, "IndexFileUri", "./index.html")
 	QRCodeSaveDir = Cfg.MustValue(DEFAULT_SECTION, "QRCodeSaveDir", "./public/")
 	StaticDir = Cfg.MustValue(DEFAULT_SECTION, "StaticDir", "./static/")
+	Expire = Cfg.MustInt64(DEFAULT_SECTION, "Expire",3600000000000)
 	RedisAddr = Cfg.MustValue(REDIS_SECTION, "Addr", "localhost:6379")
 	RedisPwd = Cfg.MustValue(REDIS_SECTION, "Password", "")
 	RedisDb = Cfg.MustInt(REDIS_SECTION, "DB", 0)
