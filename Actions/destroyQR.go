@@ -2,14 +2,13 @@ package Actions
 
 import (
 	"QRCodeService/setting"
-	"fmt"
 	"os"
 	"time"
 )
 
 func DestroyQRcode() {
 	elem, t := RedisClient.GetDestroy("Qrcode")
-	fmt.Println(elem, t)
+	//fmt.Println(elem, t)
 	du := t.Sub(time.Now())
 	if du < 0 {
 		du = 0
